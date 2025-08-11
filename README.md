@@ -1,26 +1,10 @@
-swapify/
-├── App.tsx
-├── app.json
-├── babel.config.js
-├── package.json
-├── tsconfig.json
-├── .gitignore
-├── .env.example
-├── README.md
-├── db/
-│   ├── schema.sql
-│   └── seed.sql
-├── postman/
-│   └── Swapify.postman_collection.json
-├── server/
-│   ├── package.json
-│   └── index.js
-└── src/
-    ├── config/
-    │   └── env.ts
-    ├── components/
-    │   └── BadgeComponent.tsx
-    ├── screens/
-    │   └── Home.tsx
-    └── services/
-        └── api.ts
+# Swapify
+
+Progetto Expo + TypeScript con schermata Home, componente Badge e chiamata GET /listings.
+
+## Requisiti
+- Node.js LTS
+- Expo Go su smartphone (Android/iOS)
+
+## Configurazione
+1. Copia `.env.example` in `.env` e imposta:
