@@ -1,0 +1,5 @@
+Se provi su telefono reale, usa l'IP locale del tuo PC: `http://TUO-IP-LOCALE:54321`.
+
+2. Installa dipendenze:
+```bash
+npm install
