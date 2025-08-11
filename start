@@ -1,0 +1,2 @@
+npm install      # installa tutte le dipendenze
+npm start        # avvia Metro bundler di Expo
